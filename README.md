@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game on AWS
+# Rock-Paper-Scissors Game on AWS ✊📃✂️
 
 Welcome to our cloud-based Rock-Paper-Scissors game! Here, you can join a public lobby, set up a private game, or challenge your friends. It's all deployed on AWS using ECS for a scalable and reliable experience.
 
